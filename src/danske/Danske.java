@@ -8,7 +8,7 @@ public class Danske {
 
       public static void main(String[] args) {
     
-    System.out.println("Answer is: " + getAnswer());
+    System.out.println("Answer yra: " + getAnswer());
     
   }
   
