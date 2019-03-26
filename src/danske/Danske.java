@@ -2,6 +2,7 @@ package danske;
 /**
  *
  * @author Tomas
+ *
  */
 public class Danske {
 
